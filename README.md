@@ -89,6 +89,7 @@ No external libraries or services are required.
 3. Open:
 
 ```src/app/Main.java```
+
 4. Run the Main class.
 5. Enter a delivery mode.
 6. Enter a UI platform.
